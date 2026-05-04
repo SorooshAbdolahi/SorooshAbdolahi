@@ -30,7 +30,3 @@ I am a **Master of Science in Information Systems** candidate with a concentrati
 📫 **Connect with me:**
 <p align="left">
   <a href="https://www.linkedin.com/in/soroosh-abdolahi" target="_blank"><img src="https://img.icons8.com/?size=100&id=8808&format=png&color=0077B5" alt="My LinkedIn" height="60" width="60" /></a>&nbsp;&nbsp;
-<a href="mailto:soroosh.abdolahi01@gmail.com" target="_blank" style="text-decoration: none; color: inherit;">
-  <img align="center" src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=C14438" alt="Email Me" height="60" width="60" />
-  <span style="vertical-align: middle; margin-left: 8px; font-weight: bold;">soroosh.abdolahi01@gmail.com</span>
-</a>
