@@ -6,7 +6,7 @@ I am a **Master of Science in Information Systems** candidate with a concentrati
 <br>
 <br>
 
-<img width="200" height="267" alt="coffee" src="https://github.com/user-attachments/assets/d0979831-1b9e-4e55-9d6c-df4cadd5e826" />
+<img width="2880" height="1200" alt="Image" src="https://github.com/user-attachments/assets/dc94aec6-87e1-49cb-ab6d-3994e046fe92" />
 
 <br>
 <br>
